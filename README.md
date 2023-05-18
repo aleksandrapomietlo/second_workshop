@@ -1,2 +1,2 @@
 # second_workshop
-Aplikacja webowa przy użyciu framework'a Django
+Aplikacja do rezerwacji sal w biurowcu przy użyciu framework'a Django
